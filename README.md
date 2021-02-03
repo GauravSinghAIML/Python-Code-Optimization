@@ -1,22 +1,22 @@
 # Python-Code-Optimization
-Advance Python PythonOptimization.py
-#Problem Statement: Read JSON data which is in text format
-#                  and find the word and its count pair.
-#===========================Beginner====================================
+# Advance Python: PythonOptimization.py
+    #Problem Statement: Read JSON data which is in text format
+                      #and find the word and its count pair.
+    #===========================Beginner====================================
 
-#It will have 6 variable- and alot of space for all
+    #It will have 6 variable- and alot of space for all
 
-#==========================Intermediate=====================================
+    #==========================Intermediate=====================================
 
-#Little bit optimized. It will have 3 variable- and less space as compare to above
+    #Little bit optimized. It will have 3 variable- and less space as compare to above
 
-#==========================Advance=====================================
+    #==========================Advance=====================================
 
-#Little more optimized. It will have 3 variable- and less space as compare to above
-# List comprehention instead of for-loop
+    #Little more optimized. It will have 3 variable- and less space as compare to above
+    #List comprehention instead of for-loop
 
-#==============================Profetionals===================================
+    #==============================Profetionals===================================
 
-#Most optimized. It will have 2 variable- and least space as compare to above
-# List comprehention instead of for-loop
-#Object Oriented prog. Initial handling of Input Exception
+    #Most optimized. It will have 2 variable- and least space as compare to above
+    #List comprehention instead of for-loop
+    #Object Oriented prog. Initial handling of Input Exception
