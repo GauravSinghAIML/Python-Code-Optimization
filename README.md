@@ -15,7 +15,7 @@
     #Little more optimized. It will have 3 variable- and less space as compare to above
     #List comprehention instead of for-loop
 
-    #==============================Profetionals===================================
+    #==============================Professionals===================================
 
     #Most optimized. It will have 2 variable- and least space as compare to above
     #List comprehention instead of for-loop
